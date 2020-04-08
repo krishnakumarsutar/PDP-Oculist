@@ -1,4 +1,4 @@
-# Kaggle Diabetic Retinopathy Detection
+# Oculist - Diabetic Retinopathy Detection
 
 ### Installation
 

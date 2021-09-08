@@ -5,7 +5,7 @@ matplotlib==1.4.3
 -e git+https://github.com/dnouri/nolearn.git@0a225bc5ad60c76cdc6cccbe866f9b2e39502d10#egg=nolearn-master
 numpy==1.9.2
 pandas==0.16.0
-Pillow==2.7.0
+Pillow==8.3.2
 PyYAML==3.11
 scikit-image==0.11.3
 scikit-learn==0.16.1
